@@ -1,0 +1,6 @@
+pillow
+lxml
+requests-html
+pyttsx3
+SpeechRecognition
+PyAudio

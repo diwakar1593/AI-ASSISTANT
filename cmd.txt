@@ -1,0 +1,13 @@
+-> command
+
+1. what is your name
+2. hello or hey or hay
+3. Good Morning or good morning or Morning or morning    
+4. how are you
+5. Thank You or thank you or thanku
+6. time now
+7. shutdown
+8. play music
+9. youtube or open youtube
+10. open google or google        
+11. weather
