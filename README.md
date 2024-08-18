@@ -8,7 +8,7 @@
 ## Installation
 
 - you just need to run below cmd.
-- it will be better if you creat virtual environment
+- it will be better if you create virtual environment
 
 
 ```bash
